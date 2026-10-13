@@ -6,8 +6,14 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/etc5523-2022
+      href: https://github.com/vikywayne
 
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+I'm **Annamalai Vikash Raam Manoj**, a Computer Science graduate with a specialisation in Artificial Intelligence and Machine Learning, currently pursuing a Master's in Business Analytics at Monash University.
+
+My background in Computer Science taught me to think computationally, approach problems systematically, and explore what technology can do. Through Business Analytics, I'm building on that foundation by learning how to connect technical methods with business problems, data-driven decisions, and real-world outcomes.
+
+I'm interested in bringing these two perspectives together: understanding the technology behind a solution while also understanding the problem it's meant to solve. For me, the exciting part is where technical capability meets practical value.
+
+This website is a space to showcase my projects, explore ideas, and document what I learn along the way as I build towards a career at the intersection of technology, analytics, and business.

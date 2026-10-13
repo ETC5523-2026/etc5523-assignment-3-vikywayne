@@ -11,7 +11,7 @@ page-layout: full
 title-block-banner: true
 ---
 
-## Hello, I'm **Annamalai Vikash Raam Manoj**.
+## Hello, I'm Annamalai Vikash Raam Manoj.
 
 I'm a Business Analytics student at Monash University with a background in Computer Science.
 
