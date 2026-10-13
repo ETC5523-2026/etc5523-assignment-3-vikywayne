@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Vikash | Data & Analytics"
+  title: "Vikash Manoj | Data & Analytics"
   description: "A personal website about business analytics, data visualisation and communicating evidence."
 
   navbar:
@@ -19,7 +19,7 @@ website:
         aria-label: GitHub profile
 
   page-footer:
-    left: "Vikash | Data & Analytics"
+    left: "Vikash Manoj | Data & Analytics"
     right:
       - text: GitHub
         href: https://github.com/vikywayne
