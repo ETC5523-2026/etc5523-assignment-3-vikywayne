@@ -1,14 +1,49 @@
 ---
-title: "ETC5523 Blog Assessment"
+title: "Data, Analytics & the Stories Behind Them"
 listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
+  fields:
+    - image
+    - title
+    - description
+    - date
+    - categories
+  categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
+
+
+::: {.studio-hero}
+
+<span class="eyebrow">BUSINESS ANALYTICS · DATA · VISUALISATION</span>
+
+# Hello, I'm Vikash.
+
+Turning data into something useful.
+
+I explore datasets, build analytical projects, and find ways to make complex results easier to understand.
+
+[Explore my work ↓](#projects)
+
+:::
+
+::: {.studio-now}
+
+<span class="now-indicator">● CURRENTLY EXPLORING</span>
+
+**Healthcare data, visual storytelling, and analytical methods**
+
+Looking at how data can reveal patterns that aren't obvious from the headline numbers.
+
+:::
+
+## Projects & data stories {#projects}
+
+A selection of analytical work, from exploring real-world datasets to communicating what the findings mean.
 
 

@@ -2,16 +2,35 @@ project:
   type: website
 
 website:
-  title: "blog-template"
+  title: "Vikash Manoj | The Data Journal"
+  description: "A personal website about business analytics, data visualisation and communicating evidence."
+
   navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Resume
+        href: resume.qmd
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/etc5523-2022
+        href: https://github.com/vikywayne
+        aria-label: GitHub profile
+
+  page-footer:
+    left: "Vikash Manoj | The Data Journal"
+    right:
+      - text: GitHub
+        href: https://github.com/vikywayne
+
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
+    respect-user-color-scheme: false
     css: styles.css
-
-
+    toc: false
+    smooth-scroll: true
 

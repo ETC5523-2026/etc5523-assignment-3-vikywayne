@@ -1,13 +1,38 @@
 ---
 title: "About"
-image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
-
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+::: {.about-layout}
+
+::: {.about-photo}
+![](pfp1.jpeg){fig-alt="Portrait photograph"}
+:::
+
+::: {.about-content}
+
+<span class="about-kicker">A LITTLE ABOUT ME</span>
+
+# Annamalai Vikash Raam Manoj
+
+I'm currently studying **Business Analytics at Monash University**, building on a Computer Science degree specialising in Artificial Intelligence and Machine Learning.
+
+## Where technology meets business
+
+My interest in analytics lies in moving from a question to an evidence-based answer. I enjoy exploring datasets, identifying patterns, and using visualisations to make findings easier to understand.
+
+My experience and interests span:
+
+- **Data analysis and visualisation** — exploring data and communicating findings clearly.
+- **Databases and analytics** — working with structured data to answer practical questions.
+- **Applied AI** — understanding how technical methods can contribute to real-world solutions.
+
+## Beyond the coursework
+
+This website is a place to document selected projects, share analytical stories, and explore ideas as I develop my skills.
+
+[Explore my projects ↓](index.qmd)
+
+[GitHub profile](https://github.com/vikywayne)
+
+:::
+:::

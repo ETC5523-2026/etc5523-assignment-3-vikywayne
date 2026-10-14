@@ -1,0 +1,68 @@
+---
+title: "Resume"
+description: "Education, experience, projects and technical skills."
+---
+
+## Background & experience
+
+My background combines computer science, software development and business analytics, with an interest in using data to solve practical problems.
+
+## Education
+
+**2026–2028 · Monash University** — Melbourne, Australia
+
+*Master of Business Analytics*
+
+**2021–2025 · Vellore Institute of Technology** — Chennai, India
+
+*Bachelor of Technology in Computer Science and Engineering with AI and ML*
+
+## Experience
+
+**C1X Adtech Pvt. Ltd.** — Chennai, India
+
+*Software Development Intern · August–December 2023*
+
+- Analysed datasets to identify user behaviour patterns and support data-driven decisions.
+- Evaluated web traffic and performance metrics to inform campaign and resource planning.
+- Supported improvements to automated tools used in digital advertising workflows.
+- Assisted in evaluating chatbot performance and response quality.
+
+## Projects
+
+### Privacy-Preserving Federated Learning for Medical Imaging
+
+Developed a medical image segmentation approach using federated learning, semi-supervised methods and pretrained convolutional neural networks, with a focus on privacy across distributed clients.
+
+*Python · PyTorch · DenseNet · AWS S3*
+
+### Emergency Vehicle Detection and Dynamic Traffic Control
+
+Built a prototype for detecting emergency vehicles and supporting dynamic traffic control using computer vision.
+
+*Python · YOLOv5 · OpenCV · Streamlit · Raspberry Pi*
+
+### Chatbot Optimisation for E-commerce
+
+Developed a chatbot prototype and a custom metric system to evaluate response accuracy and response times.
+
+*Python · Flask*
+
+## Technical skills
+
+- **Programming & analysis:** Python, R, SQL, Excel
+- **Visualisation & reporting:** Power BI, data visualisation, reporting
+- **Databases & tools:** MySQL, Oracle, Git, GitHub, Jupyter
+- **Additional technologies:** AWS, machine learning, computer vision
+
+## Certifications & leadership
+
+- NPTEL — Google Cloud Computing Foundations
+- ISRO IIRS — Usefulness of Remote Sensing and GIS for Environmental Studies
+- Spoken Tutorial, IIT Bombay — C, C++ and Python training
+- Content Department Head, Comedy Club, VIT Chennai
+- Finance Committee Member and Student Coordinator, Vitsion Club
+
+---
+
+[Visit my GitHub profile](https://github.com/vikywayne)
