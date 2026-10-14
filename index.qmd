@@ -11,12 +11,12 @@ page-layout: full
 title-block-banner: true
 ---
 
-## Hello, I'm Annamalai Vikash Raam Manoj.
+## Hello, I'm Vikash.
 
-I'm a Business Analytics student at Monash University with a background in Computer Science.
+I explore data, build analytical projects, and look for ways to turn complex findings into clear, useful insights.
 
-I'm interested in what happens when raw data becomes something people can actually understand and use. This site is where I'll share projects, visual explorations, and stories I've built along the way.
+This site brings together my projects, visualisations, and explorations in data and technology.
 
 ## Projects & data stories
 
-A collection of work exploring data, the questions it raises, and the ways we can communicate what we find.
+A collection of analytical work, from exploring real-world datasets to communicating what the findings mean.

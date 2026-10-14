@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: pfp.jpeg
 about:
   template: jolla
   links:
@@ -10,10 +10,10 @@ about:
 
 ---
 
-I'm **Annamalai Vikash Raam Manoj**, a Computer Science graduate with a specialisation in Artificial Intelligence and Machine Learning, currently pursuing a Master's in Business Analytics at Monash University.
+I'm **Annamalai Vikash Raam Manoj**, currently studying Business Analytics at Monash University after completing a Computer Science degree specialising in Artificial Intelligence and Machine Learning.
 
-My background in Computer Science taught me to think computationally, approach problems systematically, and explore what technology can do. Through Business Analytics, I'm building on that foundation by learning how to connect technical methods with business problems, data-driven decisions, and real-world outcomes.
+What interests me about analytics is the process of moving from a question to an evidence-based answer. I enjoy exploring how data can reveal patterns, how visualisations can make those patterns easier to understand, and how technical methods can help solve practical problems.
 
-I'm interested in bringing these two perspectives together: understanding the technology behind a solution while also understanding the problem it's meant to solve. For me, the exciting part is where technical capability meets practical value.
+My interests span data analysis, visualisation, databases, and applied AI. Through coursework and independent projects, I'm developing a broader perspective on not just how analytical solutions work, but also how their results can be communicated and used.
 
-This website is a space to showcase my projects, explore ideas, and document what I learn along the way as I build towards a career at the intersection of technology, analytics, and business.
+Outside individual projects, this website is a space for experimentation and learning. I'll use it to document selected work, share analytical stories, and reflect on what I discover along the way.
