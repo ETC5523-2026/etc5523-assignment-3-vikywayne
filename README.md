@@ -4,7 +4,7 @@ This repository contains my personal website and data blog, developed for ETC552
 
 **Author:** Annamalai Vikash Raam Manoj
 
-**Website:** 
+**Website:** https://etc5523-2026.github.io/etc5523-assignment-3-vikywayne/
 
 **GitHub:** [https://github.com/vikywayne](https://github.com/vikywayne)
 
