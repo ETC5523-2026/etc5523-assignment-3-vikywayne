@@ -3,86 +3,66 @@ title: "Resume"
 description: "Education, experience, projects and technical skills."
 ---
 
-# An analytics-focused background
+## Background & experience
 
-I'm a Business Analytics postgraduate student at Monash University with a foundation in Computer Science and Artificial Intelligence. My experience spans software development, data analysis, machine learning and technical project work.
+My background combines computer science, software development and business analytics, with an interest in using data to solve practical problems.
 
 ## Education
 
-**Monash University** — Melbourne, Australia  
-*Master of Business Analytics* | March 2026 – February 2028
+**2026–2028 · Monash University** — Melbourne, Australia
 
-**Vellore Institute of Technology, Chennai** — India  
-*Bachelor of Technology in Computer Science and Engineering* | July 2021 – May 2025
+*Master of Business Analytics*
+
+**2021–2025 · Vellore Institute of Technology** — Chennai, India
+
+*Bachelor of Technology in Computer Science and Engineering*
 
 ## Experience
 
-**C1X Adtech Pvt. Ltd.** — Chennai, India  
-*Software Development Intern* | August 2023 – December 2023
+**C1X Adtech Pvt. Ltd.** — Chennai, India
+
+*Software Development Intern · August–December 2023*
 
 - Analysed datasets to identify user behaviour patterns and support data-driven decisions.
 - Evaluated web traffic and performance metrics to inform campaign and resource planning.
 - Supported improvements to automated tools used in digital advertising workflows.
 - Assisted in evaluating chatbot performance and response quality.
 
-## Selected projects
+## Projects
 
-### Privacy-Preserving Federated Semi-Supervised Learning on Medical Imaging
+### Privacy-Preserving Federated Learning for Medical Imaging
 
-*Python · PyTorch · AWS S3 · DenseNet*
+Developed a medical image segmentation approach using federated learning, semi-supervised methods and pretrained convolutional neural networks, with a focus on privacy across distributed clients.
 
-- Developed a federated learning approach for medical image segmentation using semi-supervised and privacy-preserving techniques.
-- Used transfer learning with pretrained convolutional neural networks across distributed clients.
-- Reported 97.55% accuracy in the project evaluation.
+*Python · PyTorch · DenseNet · AWS S3*
 
 ### Emergency Vehicle Detection and Dynamic Traffic Control
 
+Built a prototype for detecting emergency vehicles and supporting dynamic traffic control using computer vision.
+
 *Python · YOLOv5 · OpenCV · Streamlit · Raspberry Pi*
 
-- Developed a concept for detecting emergency vehicles and dynamically adjusting traffic signals.
-- Combined computer vision with edge-computing hardware and a Streamlit interface.
+### Chatbot Optimisation for E-commerce
 
-### Chatbot Optimisation for an E-commerce Website
+Developed a chatbot prototype and a custom metric system to evaluate response accuracy and response times.
 
 *Python · Flask*
 
-- Developed custom metrics to evaluate chatbot accuracy and response time.
-- Explored ways to improve chatbot performance and customer interaction.
-
-### AYUSH Medical System Portal — Smart India Hackathon 2023
-
-*HTML · CSS · JavaScript · PHP · MySQL*
-
-- Developed a portal concept to help stakeholders access information, collaborate and explore analytics.
-
-### Healthcare-Associated Infection Burden Analysis
-
-*Data analysis · Data visualisation · Evidence communication*
-
-- Analysed published estimates of infection cases, attributable deaths and disability-adjusted life years.
-- Compared infection frequency with health burden and examined estimates for Germany and the EU/EEA.
-- Communicated findings through tables, a research figure and a written analytical story.
-
 ## Technical skills
 
-- **Programming and data:** Python, SQL, R
-- **Analytics and reporting:** Excel, Power BI, Jupyter Notebook
-- **Databases:** MySQL, Oracle
-- **Tools and platforms:** Git, GitHub, AWS
+- **Programming & analysis:** Python, R, SQL, Excel
+- **Visualisation & reporting:** Power BI, data visualisation, reporting
+- **Databases & tools:** MySQL, Oracle, Git, GitHub, Jupyter
+- **Additional technologies:** AWS, machine learning, computer vision
 
-## Certifications and additional learning
+## Certifications & leadership
 
-- Usefulness of Remote Sensing and GIS for Environmental Studies — Indian Institute of Remote Sensing (ISRO), 2021
-- Google Cloud Computing Foundations — NPTEL
-- C, C++ and Python training — Spoken Tutorial, IIT Bombay
-- AWS Cloud Practitioner — in progress
+- NPTEL — Google Cloud Computing Foundations
+- ISRO IIRS — Usefulness of Remote Sensing and GIS for Environmental Studies
+- Spoken Tutorial, IIT Bombay — C, C++ and Python training
+- Content Department Head, Comedy Club, VIT Chennai
+- Finance Committee Member and Student Coordinator, Vitsion Club
 
-## Leadership and involvement
+---
 
-**Content Department Head — The Comedy Club, VIT Chennai**
-
-Led the content team, organised brainstorming sessions and supported team development.
-
-**Finance Committee Member — Vitsion Club, VIT Chennai**
-
-Served as Student Coordinator and Logistics Head for VIT GLOBUS, a national-level short-film competition.
+[Visit my GitHub profile](https://github.com/vikywayne)
