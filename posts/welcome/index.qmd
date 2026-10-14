@@ -92,6 +92,6 @@ Overall, the study by Zacher et al. (2019) demonstrates the value of combining i
 
 ## References
 
-Zacher, B., Haller, S., Willrich, N., Walter, J., Abu Sin, M., Cassini, A., Plachouras, D., Suetens, C., Behnke, M., Gastmeier, P., Wieler, L. H., & Eckmanns, T. (2019). Application of a new methodology and R package reveals a high burden of healthcare-associated infections (HAI) in Germany compared to the average in the European Union/European Economic Area, 2011 to 2012. *Eurosurveillance, 24*(46), 1900135. https://doi.org/10.2807/1560-7917.ES.2019.24.46.1900135
+Zacher, B., Haller, S., Willrich, N., Walter, J., Abu Sin, M., Cassini, A., Plachouras, D., Suetens, C., Behnke, M., Gastmeier, P., Wieler, L. H., & Eckmanns, T. (2019). Application of a new methodology and R package reveals a high burden of healthcare-associated infections (HAI) in Germany compared to the average in the European Union/European Economic Area, 2011 to 2012. *Eurosurveillance, 24*(46), 1900135. [Read the original study](https://doi.org/10.2807/1560-7917.ES.2019.24.46.1900135)
 
 

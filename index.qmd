@@ -4,19 +4,46 @@ listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
+  fields:
+    - image
+    - title
+    - description
+    - date
+    - categories
+  categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
 
-## Hello, I'm Vikash.
 
-I explore data, build analytical projects, and look for ways to turn complex findings into clear, useful insights.
+::: {.studio-hero}
 
-This site brings together my projects, visualisations, and explorations in data and technology.
+<span class="eyebrow">BUSINESS ANALYTICS · DATA · VISUALISATION</span>
 
-## Projects & data stories
+# Hello, I'm Vikash.
 
-A collection of analytical work, from exploring real-world datasets to communicating what the findings mean.
+Turning data into something useful.
+
+I explore datasets, build analytical projects, and find ways to make complex results easier to understand.
+
+[Explore my work ↓](#projects)
+
+:::
+
+::: {.studio-now}
+
+<span class="now-indicator">● CURRENTLY EXPLORING</span>
+
+**Healthcare data, visual storytelling, and analytical methods**
+
+Looking at how data can reveal patterns that aren't obvious from the headline numbers.
+
+:::
+
+## Projects & data stories {#projects}
+
+A selection of analytical work, from exploring real-world datasets to communicating what the findings mean.
+
+
