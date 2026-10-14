@@ -13,6 +13,8 @@ website:
         href: index.qmd
       - text: About
         href: about.qmd
+      - text: Resume
+        href: resume.qmd
     right:
       - icon: github
         href: https://github.com/vikywayne
