@@ -1,0 +1,361 @@
+/* =========================================================
+   THE DATA JOURNAL — Charcoal, Lime & Neutral Surfaces
+   ========================================================= */
+
+:root {
+  --studio-lime: #C6FF4D;
+}
+
+/* Theme colours */
+.quarto-light {
+  --studio-bg: #F3F4EF;
+  --studio-surface: #FFFFFF;
+  --studio-text: #202322;
+  --studio-muted: #626B63;
+  --studio-border: #DCE1D8;
+  --studio-link: #477A00;
+  --studio-hero-bg: #202322;
+  --studio-hero-text: #F3F4EF;
+  --studio-hero-muted: #C4CCC4;
+}
+
+.quarto-dark {
+  --studio-bg: #202322;
+  --studio-surface: #292D2B;
+  --studio-text: #F3F4EF;
+  --studio-muted: #A4ADA5;
+  --studio-border: #414842;
+  --studio-link: #C6FF4D;
+  --studio-hero-bg: #292D2B;
+  --studio-hero-text: #F3F4EF;
+  --studio-hero-muted: #A4ADA5;
+}
+
+/* Base layout and typography */
+body {
+  background: var(--studio-bg);
+  color: var(--studio-text);
+}
+
+main {
+  color: var(--studio-text);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: var(--studio-text);
+  letter-spacing: -0.035em;
+}
+
+main h2 {
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--studio-border);
+}
+
+a {
+  color: var(--studio-link);
+  transition: color 180ms ease;
+}
+
+a:hover {
+  color: var(--studio-text);
+}
+
+/* Navigation: charcoal in both colour schemes */
+.navbar {
+  background: #202322 !important;
+  border-bottom: 2px solid var(--studio-lime);
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.08);
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+  color: #F3F4EF !important;
+  transition: color 180ms ease;
+}
+
+.navbar .nav-link.active {
+  color: var(--studio-lime) !important;
+  font-weight: 600;
+}
+
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+  color: var(--studio-lime) !important;
+}
+
+.navbar .navbar-brand {
+  position: relative;
+  text-decoration: none;
+}
+
+.navbar .navbar-brand:focus-visible {
+  outline: 2px solid var(--studio-lime);
+  outline-offset: 4px;
+}
+
+/* Navbar utility icons and colour-scheme toggle */
+.navbar .quarto-navigation-tool,
+.navbar .quarto-navigation-tool a,
+.navbar .quarto-navigation-tool button,
+.navbar button.quarto-color-scheme-toggle,
+.navbar .quarto-color-scheme-toggle {
+  color: #F3F4EF !important;
+  opacity: 1 !important;
+}
+
+.navbar .quarto-navigation-tool svg,
+.navbar .quarto-color-scheme-toggle svg {
+  color: #F3F4EF !important;
+  stroke: currentColor !important;
+  opacity: 1 !important;
+}
+
+/* Homepage hero */
+.studio-hero {
+  position: relative;
+  overflow: hidden;
+  padding: clamp(2rem, 5vw, 4.5rem);
+  margin-bottom: 1rem;
+  background: var(--studio-hero-bg);
+  color: var(--studio-hero-text);
+  border: 1px solid var(--studio-border);
+  border-left: 5px solid var(--studio-lime);
+  border-radius: 16px;
+}
+
+.studio-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.09;
+  background-image:
+    linear-gradient(#A4ADA5 1px, transparent 1px),
+    linear-gradient(90deg, #A4ADA5 1px, transparent 1px);
+  background-size: 34px 34px;
+  mask-image: linear-gradient(90deg, transparent 10%, black 100%);
+}
+
+.studio-hero > * {
+  position: relative;
+  z-index: 1;
+}
+
+.studio-hero .eyebrow {
+  display: block;
+  margin-bottom: 1rem;
+  color: var(--studio-lime);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+
+.studio-hero h1 {
+  max-width: 760px;
+  margin: 0 0 1.5rem;
+  color: var(--studio-hero-text);
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  line-height: 1.05;
+}
+
+.studio-hero p {
+  max-width: 700px;
+  color: var(--studio-hero-muted);
+  font-size: 1.08rem;
+  line-height: 1.8;
+}
+
+.studio-hero a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.7rem 1rem;
+  color: var(--studio-lime);
+  border: 1px solid var(--studio-lime);
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 180ms ease, color 180ms ease;
+}
+
+.studio-hero a:hover {
+  background: var(--studio-lime);
+  color: #202322;
+}
+
+/* Currently exploring panel */
+.studio-now {
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 2.5rem;
+  background: var(--studio-surface);
+  color: var(--studio-text);
+  border: 1px solid var(--studio-border);
+  border-radius: 12px;
+}
+
+.studio-now .now-indicator {
+  display: block;
+  margin-bottom: 1rem;
+  color: var(--studio-link);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+
+.studio-now strong {
+  color: var(--studio-text);
+}
+
+.studio-now p {
+  margin-bottom: 0.4rem;
+  color: var(--studio-muted);
+}
+
+/* Homepage project and blog listing */
+.quarto-listing-container-default .quarto-post {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.9fr) minmax(0, 1.4fr);
+  gap: 1.5rem;
+  align-items: stretch;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+  background: var(--studio-surface);
+  color: var(--studio-text);
+  border: 1px solid var(--studio-border);
+  border-left: 5px solid var(--studio-link);
+  border-radius: 14px;
+  box-shadow: 0 5px 18px rgba(25, 44, 58, 0.06);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.quarto-listing-container-default .quarto-post:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 26px rgba(25, 44, 58, 0.12);
+}
+
+.quarto-listing-container-default .thumbnail {
+  width: 100%;
+  height: 100%;
+  min-height: 210px;
+  object-fit: cover;
+  border-radius: 9px;
+}
+
+.quarto-listing-container-default .listing-title {
+  color: var(--studio-text);
+  font-size: 1.4rem;
+  font-weight: 650;
+  line-height: 1.3;
+}
+
+.quarto-listing-container-default .listing-description {
+  color: var(--studio-muted);
+  line-height: 1.7;
+}
+
+.quarto-listing-container-default .listing-categories .listing-category {
+  color: var(--studio-link);
+  background: var(--studio-bg);
+  border-color: var(--studio-border);
+  border-radius: 999px;
+}
+
+.quarto-post img {
+  transition: transform 220ms ease;
+}
+
+.quarto-post img:hover {
+  transform: scale(1.02);
+}
+
+/* About page */
+.about-layout {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.75fr) minmax(0, 1.6fr);
+  gap: clamp(2rem, 5vw, 5rem);
+  align-items: start;
+  max-width: 1100px;
+  margin: 2.5rem auto;
+}
+
+.about-photo img {
+  display: block;
+  width: 100%;
+  max-width: 340px;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border: 1px solid var(--studio-border);
+  border-radius: 16px;
+  box-shadow: 0 10px 28px rgba(25, 44, 58, 0.10);
+}
+
+.about-content {
+  min-width: 0;
+  padding: 0.5rem 0;
+}
+
+.about-kicker {
+  display: block;
+  margin-bottom: 1rem;
+  color: var(--studio-link);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+}
+
+.about-content h1 {
+  margin: 0 0 1.5rem;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  line-height: 1.12;
+}
+
+.about-content h2 {
+  margin-top: 2rem;
+}
+
+.about-content p,
+.about-content li {
+  line-height: 1.8;
+}
+
+.about-content li {
+  margin-bottom: 0.5rem;
+}
+
+/* Footer */
+.nav-footer {
+  background: var(--studio-bg);
+  border-top: 1px solid var(--studio-border);
+}
+
+/* Responsive layouts */
+@media (max-width: 700px) {
+  .studio-hero {
+    padding: 1.75rem 1.25rem;
+  }
+
+  .quarto-listing-container-default .quarto-post {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .quarto-listing-container-default .thumbnail {
+    min-height: 180px;
+    max-height: 240px;
+  }
+
+  .about-layout {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+  .about-photo img {
+    max-width: 220px;
+    aspect-ratio: 1;
+  }
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "My background combines computer science, software development and business analytics, with an interest in using data to solve practical problems."
+  },
+  {
+    "objectID": "resume.html#background-experience",
+    "href": "resume.html#background-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "My background combines computer science, software development and business analytics, with an interest in using data to solve practical problems."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n2026–2028 · Monash University — Melbourne, Australia\nMaster of Business Analytics\n2021–2025 · Vellore Institute of Technology — Chennai, India\nBachelor of Technology in Computer Science and Engineering with AI and ML"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\nC1X Adtech Pvt. Ltd. — Chennai, India\nSoftware Development Intern · August–December 2023\n\nAnalysed datasets to identify user behaviour patterns and support data-driven decisions.\nEvaluated web traffic and performance metrics to inform campaign and resource planning.\nSupported improvements to automated tools used in digital advertising workflows.\nAssisted in evaluating chatbot performance and response quality."
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Resume",
+    "section": "Projects",
+    "text": "Projects\n\nPrivacy-Preserving Federated Learning for Medical Imaging\nDeveloped a medical image segmentation approach using federated learning, semi-supervised methods and pretrained convolutional neural networks, with a focus on privacy across distributed clients.\nPython · PyTorch · DenseNet · AWS S3\n\n\nEmergency Vehicle Detection and Dynamic Traffic Control\nBuilt a prototype for detecting emergency vehicles and supporting dynamic traffic control using computer vision.\nPython · YOLOv5 · OpenCV · Streamlit · Raspberry Pi\n\n\nChatbot Optimisation for E-commerce\nDeveloped a chatbot prototype and a custom metric system to evaluate response accuracy and response times.\nPython · Flask"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "Technical skills",
+    "text": "Technical skills\n\nProgramming & analysis: Python, R, SQL, Excel\nVisualisation & reporting: Power BI, data visualisation, reporting\nDatabases & tools: MySQL, Oracle, Git, GitHub, Jupyter\nAdditional technologies: AWS, machine learning, computer vision"
+  },
+  {
+    "objectID": "resume.html#certifications-leadership",
+    "href": "resume.html#certifications-leadership",
+    "title": "Resume",
+    "section": "Certifications & leadership",
+    "text": "Certifications & leadership\n\nNPTEL — Google Cloud Computing Foundations\nISRO IIRS — Usefulness of Remote Sensing and GIS for Environmental Studies\nSpoken Tutorial, IIT Bombay — C, C++ and Python training\nContent Department Head, Comedy Club, VIT Chennai\nFinance Committee Member and Student Coordinator, Vitsion Club\n\n\nVisit my GitHub profile"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data, Analytics & the Stories Behind Them",
+    "section": "",
+    "text": "BUSINESS ANALYTICS · DATA · VISUALISATION\n\n\nTurning data into something useful.\nI explore datasets, build analytical projects, and find ways to make complex results easier to understand.\nExplore my work ↓"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Data, Analytics & the Stories Behind Them",
+    "section": "Projects & data stories",
+    "text": "Projects & data stories\nA selection of analytical work, from exploring real-world datasets to communicating what the findings mean."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "A LITTLE ABOUT ME\n\n\nI’m currently studying Business Analytics at Monash University, building on a Computer Science degree specialising in Artificial Intelligence and Machine Learning.\n\n\nMy interest in analytics lies in moving from a question to an evidence-based answer. I enjoy exploring datasets, identifying patterns, and using visualisations to make findings easier to understand.\nMy experience and interests span:\n\nData analysis and visualisation — exploring data and communicating findings clearly.\nDatabases and analytics — working with structured data to answer practical questions.\nApplied AI — understanding how technical methods can contribute to real-world solutions.\n\n\n\n\nThis website is a place to document selected projects, share analytical stories, and explore ideas as I develop my skills.\nExplore my projects ↓\nGitHub profile"
+  },
+  {
+    "objectID": "about.html#where-technology-meets-business",
+    "href": "about.html#where-technology-meets-business",
+    "title": "About",
+    "section": "",
+    "text": "My interest in analytics lies in moving from a question to an evidence-based answer. I enjoy exploring datasets, identifying patterns, and using visualisations to make findings easier to understand.\nMy experience and interests span:\n\nData analysis and visualisation — exploring data and communicating findings clearly.\nDatabases and analytics — working with structured data to answer practical questions.\nApplied AI — understanding how technical methods can contribute to real-world solutions."
+  },
+  {
+    "objectID": "about.html#beyond-the-coursework",
+    "href": "about.html#beyond-the-coursework",
+    "title": "About",
+    "section": "",
+    "text": "This website is a place to document selected projects, share analytical stories, and explore ideas as I develop my skills.\nExplore my projects ↓\nGitHub profile"
+  },
+  {
+    "objectID": "posts/welcome/index.html#problem-description",
+    "href": "posts/welcome/index.html#problem-description",
+    "title": "Beyond the Infection Count: Understanding the Burden of Hospital-Acquired Infections",
+    "section": "Problem description",
+    "text": "Problem description\nHospitals are places where people go to recover, but healthcare itself can sometimes expose patients to additional infections. These healthcare-associated infections (HAIs) can lead to longer illnesses, disability and premature death, creating an additional burden for patients and healthcare systems.\nFor hospital administrators, knowing how many infections occur is important, but it is only part of the picture. An infection that occurs frequently may not necessarily cause the greatest overall health loss. Conversely, a less common infection can have serious consequences for the patients affected.\nA study by Zacher et al. (2019) examined five types of healthcare-associated infections in Germany and compared their estimated burden with the European Union/European Economic Area (EU/EEA). This raises two important questions: Do the most common infections account for the greatest health burden? And how does the estimated burden in Germany compare with the EU/EEA average when measured across the population?\nThis analysis explores those questions using estimates of infection cases, attributable deaths and disability-adjusted life years (DALYs) from the study."
+  },
+  {
+    "objectID": "posts/welcome/index.html#analysis",
+    "href": "posts/welcome/index.html#analysis",
+    "title": "Beyond the Infection Count: Understanding the Burden of Hospital-Acquired Infections",
+    "section": "Analysis",
+    "text": "Analysis\nThe estimates in this analysis come from a study by Zacher et al. (2019), which used data from the European Centre for Disease Prevention and Control (ECDC) point prevalence survey of healthcare-associated infections in acute-care hospitals during 2011–2012. The researchers estimated the burden of five infection types in Germany and compared the results with the EU/EEA average.\n\nThe scale of the problem\nFor Germany, the study estimated that the five infections examined accounted for 478,222 cases, 16,245 attributable deaths and 248,920 disability-adjusted life years (DALYs) in 2011.\nDALYs measure health loss by combining years of life lost due to premature death with years lived with disability. This helps compare infections that differ in both frequency and severity.\nThe headline figures show the scale of the problem, but they do not tell the whole story. To understand where the burden falls, we need to look at how the results differ across infection types.\n\n\nWhen more cases do not mean more health loss\nUrinary tract infections (UTIs) were the most common of the five infections studied in Germany. However, healthcare-associated pneumonia (HAP) produced a greater estimated health burden despite having roughly half as many cases. Bloodstream infections (BSI) also contributed substantially to health loss despite being less common.\nTable 1 compares the estimated cases and disability-adjusted life years (DALYs) for these three infections in Germany in 2011.\n\n\n\nTable 1: Estimated cases and DALYs for three healthcare-associated infections in Germany, 2011. Source: Zacher et al. (2019), Table 1.\n\n\n\n\n\nInfection type\nEstimated cases\nEstimated DALYs\n\n\n\n\nUrinary tract infection (UTI)\n214,150\n66,701\n\n\nHealthcare-associated pneumonia (HAP)\n106,586\n69,508\n\n\nBloodstream infection (BSI)\n26,976\n58,350\n\n\n\n\n\n\nThe contrast is clear. UTIs accounted for the most cases, but HAP had the highest estimated DALY total among these three infections. BSI had far fewer cases than either UTI or HAP, yet its estimated health burden was still substantial. For hospital decision-makers, this shows why infection frequency alone may not adequately describe the impact on population health.\n\n\nGermany and the EU/EEA: two different perspectives\nThe comparison becomes more interesting when infection rates are considered alongside the size of the population affected. Zacher et al. (2019) estimated that Germany had 2.40 infections per 100 hospitalised patients, compared with 2.83 per 100 across the EU/EEA. Viewed this way, Germany’s incidence was lower.\nHowever, the picture changes when the estimates are expressed per 100,000 people in the population. Germany had an estimated 592.1 infections per 100,000 people, compared with 467.9 across the EU/EEA. The estimated burden of attributable deaths and DALYs per 100,000 people was also higher in Germany.\nTable 2 summarises these differences.\n\n\n\nTable 2: Estimated healthcare-associated infection incidence and population-level burden in Germany and the EU/EEA, 2011–2012. Source: Zacher et al. (2019), Table 2.\n\n\n\n\n\nMeasure\nGermany\nEU/EEA\n\n\n\n\nInfections per 100 hospitalised patients\n2.40\n2.83\n\n\nInfections per 100,000 population\n592.1\n467.9\n\n\nAttributable deaths per 100,000 population\n20.1\n15.3\n\n\nDALYs per 100,000 population\n308.2\n290.0\n\n\n\n\n\n\nThese measures use different denominators, so they answer different questions. The first describes incidence among hospitalised patients; the population-level measures describe the estimated burden relative to the entire population. They should not be interpreted as interchangeable rates.\nThe authors suggest that Germany’s larger number of hospital beds and hospitalised patients may help explain its higher population-level burden, despite its lower incidence among hospitalised patients. This is a proposed explanation, rather than proof that hospital capacity alone caused the difference.\n\n\nWhere does the burden fall?\nThe overall comparison shows the scale of the problem, but not how infection frequency relates to deaths and health loss. The figure below explores this relationship across five types of healthcare-associated infections in Germany.\n\n\n\n\n\n\nFigure 1: Annual number of healthcare-associated infections plotted against attributable deaths for five infection types in Germany in 2011. Bubble size represents estimated disability-adjusted life years (DALYs). Source: Zacher et al. (2019).\n\n\n\nAs shown in Figure 1, UTIs account for the greatest number of infections, but HAP has a higher estimated DALY total despite having roughly half as many cases. BSI also contributes substantially to health loss despite having far fewer cases. This reinforces why infection counts alone do not capture the full impact on health."
+  },
+  {
+    "objectID": "posts/welcome/index.html#conclusion",
+    "href": "posts/welcome/index.html#conclusion",
+    "title": "Beyond the Infection Count: Understanding the Burden of Hospital-Acquired Infections",
+    "section": "Conclusion",
+    "text": "Conclusion\nThis analysis shows why the burden of healthcare-associated infections cannot be understood through infection counts alone. In Germany, urinary tract infections were the most common of the five infection types, while pneumonia and bloodstream infections contributed substantially to deaths and DALYs despite having fewer cases. The country-level comparison also showed higher estimated infections, attributable deaths and DALYs per 100,000 people in Germany than in the EU/EEA.\nThese findings matter for healthcare decision-makers because prevention priorities should consider not only how often infections occur, but also the health loss associated with them. However, the estimates come from a specific study period and depend on the data and methods used, so they should not be treated as a description of current infection rates.\nOverall, the study by Zacher et al. (2019) demonstrates the value of combining infection counts with measures of mortality and disability when assessing the public-health burden of healthcare-associated infections."
+  },
+  {
+    "objectID": "posts/welcome/index.html#references",
+    "href": "posts/welcome/index.html#references",
+    "title": "Beyond the Infection Count: Understanding the Burden of Hospital-Acquired Infections",
+    "section": "References",
+    "text": "References\nZacher, B., Haller, S., Willrich, N., Walter, J., Abu Sin, M., Cassini, A., Plachouras, D., Suetens, C., Behnke, M., Gastmeier, P., Wieler, L. H., & Eckmanns, T. (2019). Application of a new methodology and R package reveals a high burden of healthcare-associated infections (HAI) in Germany compared to the average in the European Union/European Economic Area, 2011 to 2012. Eurosurveillance, 24(46), 1900135. Read the original study"
+  }
+]
